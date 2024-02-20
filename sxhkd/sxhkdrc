@@ -131,3 +131,7 @@ super + e
 # discord
 super + d
 	discord
+
+# flameshot
+super + ctrl + f
+	flameshot gui
